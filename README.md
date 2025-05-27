@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there, I'm Rajnish!
 
-<!--
-**rajnisht7/rajnisht7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ Chatterly – Anonymous Chat App
+
+- [Vercel Live Site](https://chatterly-frontend-1n8qzfkzg-rajnisht7s-projects.vercel.app)
+
+  ###
+
+
+
+---
+
+Thanks for visiting!
