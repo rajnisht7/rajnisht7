@@ -1,16 +1,8 @@
-# 👋 Hey there, I'm Rajnish!
+# 👋 Yo!
 
-Welcome to my GitHub profile!
+## 🚀 Checkout my Projects
 
-## 🚀 My Projects
-
-### 🛰️ Chatterly – Anonymous Chat App
-
-- [Vercel Live Site](https://chatterly-frontend-1n8qzfkzg-rajnisht7s-projects.vercel.app)
-
-  ###
-
-
+### 🛰️ [Chatterly – Anonymous Chat App](https://chatterly-frontend-1n8qzfkzg-rajnisht7s-projects.vercel.app)
 
 ---
 
