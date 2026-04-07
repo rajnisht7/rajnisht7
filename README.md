@@ -18,6 +18,12 @@
 
 ---
 
+### 🌍 Open World
+An interactive open-world experience built for the web.
+[🌐 **Visit Open World**](https://open-new-world.vercel.ap)  
+
+---
+
 ## 🌟 Amazing Things On The Way  
 Stay tuned for upcoming projects and updates — it's going to be exciting! 🚀  
 
