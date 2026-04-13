@@ -30,4 +30,4 @@ Stay tuned for upcoming projects and updates — it's going to be exciting! 🚀
 
 ---
 
-💖 Thanks for visiting!  
+Thanks for visiting!  
