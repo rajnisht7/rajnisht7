@@ -1,6 +1,6 @@
 # 👋 Hey There!
 
-## 🚀 Check Out My Projects  
+## 🚀 Check Out
 
 ---
 
