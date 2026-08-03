@@ -7,7 +7,7 @@
 ### 🛰️ **Chatterly – Anonymous Chat App**  
 💬 Connect with strangers instantly, chat anonymously, and enjoy end-to-end encryption.  
 
-[🌐 **Visit Chatterly**](https://www.chatterly.fun)  
+[🌐 **Visit Chatterly**](https://chatterly-frontend-beta.vercel.app/)  
 
 ---
 
