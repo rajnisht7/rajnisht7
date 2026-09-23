@@ -45,15 +45,15 @@ Worked across features, bug fixes, frontend behavior, visualization, testing, an
 ---
 ## 🚀 Things I've Built
 
-### [Chatterly](https://chatterly-frontend-beta.vercel.app/) Anonymous · Encrypted · Real-time
+### [Chatterly](https://chatterly-frontend-beta.vercel.app/) - Anonymous · Encrypted · Real-time
 
-A chat application with end-to-end encrypted messaging and WebRTC voice calling.
+A chat application with end-to-end encrypted messaging with ECDH-AES.
 
-### [DealsBridge](https://dealsbridge-client.vercel.app/) AI · Deals · Rewards
+### [DealsBridge](https://dealsbridge-client.vercel.app/) - AI · Deals · Rewards
 
 An AI-powered platform for discovering and sharing deals, earning Pulse Points, and redeeming rewards.
 
-### [Open World](https://open-new-world.vercel.app/) Explore · Interact · Play
+### [Open World](https://open-new-world.vercel.app/) - Explore · Interact · Play
 
 An interactive open-world experience built for the web.
 
