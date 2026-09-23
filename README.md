@@ -20,7 +20,7 @@ Alongside development, also spend time researching and reporting security vulner
 
 **7 CVE-assigned vulnerabilities** responsibly disclosed across open-source projects.
 
-| Project               | Vulnerability                  | Advisory                                                                                                       |
+| Project               | Finding                  | Advisory                                                                                                       |
 | --------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | FOSS United           | Unauthenticated PII disclosure | [GHSA-8w2h-86fx-99fc](https://github.com/fossunited/fossunited/security/advisories/GHSA-8w2h-86fx-99fc)        |
 | TokenCanopy E2A       | Agent enumeration              | [GHSA-jh7v-7hx6-2mc2](https://github.com/tokencanopy/e2a/security/advisories/GHSA-jh7v-7hx6-2mc2)              |
