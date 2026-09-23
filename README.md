@@ -1,33 +1,70 @@
 # 👋 Hey There!
 
-## 🚀 Check Out
+### Research · Security · Open Source
 
 ---
 
-### 🛰️ **Chatterly – Anonymous Chat App**  
-💬 Connect with strangers instantly, chat anonymously, and enjoy end-to-end encryption.  
+## ⚛️ Research
 
-[🌐 **Visit Chatterly**](https://chatterly-frontend-beta.vercel.app/)  
+**Quantum Computing · Quantum Cryptography**
 
----
+Published research papers in Quantum Computing and Quantum Cryptography, with work published through **Springer Nature**.
 
-### 💰 **DealsBridge**  
-🔥 Share the best deals, earn **Pulse Points**, and redeem them for real rewards — all with **AI-powered content safety** to keep things clean and safe.  
-
-[🌐 **Visit DealsBridge**](https://dealsbridge-client.vercel.app/)  
+**Qiskit Advocate** · **QGSS Mentor** · **IEEE Gujarat Section Reviewer**
 
 ---
 
-### 🌍 Open World
+## 🔐 Security
+
+Alongside development, also spend time researching and reporting security vulnerabilities.
+
+**7 CVE-assigned vulnerabilities** responsibly disclosed across open-source projects.
+
+| Project               | Advisory                                                                                                       |
+| --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| FOSS United           | [GHSA-8w2h-86fx-99fc](https://github.com/fossunited/fossunited/security/advisories/GHSA-8w2h-86fx-99fc)        |
+| TokenCanopy E2A       | [GHSA-jh7v-7hx6-2mc2](https://github.com/tokencanopy/e2a/security/advisories/GHSA-jh7v-7hx6-2mc2)              |
+| Tamari                | [GHSA-598r-88gg-f538](https://github.com/alexbates/Tamari/security/advisories/GHSA-598r-88gg-f538)             |
+| Rails Error Dashboard | [GHSA-qhgm-3pxf-mvc6](https://github.com/AnjanJ/rails_error_dashboard/security/advisories/GHSA-qhgm-3pxf-mvc6) |
+| ThriveX Server        | [GHSA-54f3-g74v-hq9x](https://github.com/LiuYuYang01/ThriveX-Server/security/advisories/GHSA-54f3-g74v-hq9x)   |
+| PyCrucible            | [GHSA-xf83-fc6j-j8r2](https://github.com/razorblade23/PyCrucible/security/advisories/GHSA-xf83-fc6j-j8r2)      |
+| MITRE Heimdall2       | [GHSA-g9vx-2rpf-gpch](https://github.com/mitre/heimdall2/security/advisories/GHSA-g9vx-2rpf-gpch)              |
+
+---
+
+## 🌍 Open Source
+
+### Google Summer of Code 2026 · FOSSASIA
+
+**Visdom**
+
+100+ PRs merged across features, bug fixes, testing, and infrastructure.
+
+---
+
+## 🚀 Things I've Built
+
+### Chatterly
+
+**Anonymous · Encrypted · Real-time**
+
+A chat application with end-to-end encrypted messaging and WebRTC voice calling.
+
+[**Visit Chatterly →**](https://chatterly-frontend-beta.vercel.app/)
+
+### DealsBridge
+
+**AI · Deals · Rewards**
+
+An AI-powered platform for discovering and sharing deals, earning Pulse Points, and redeeming rewards.
+
+[**Visit DealsBridge →**](https://dealsbridge-client.vercel.app/)
+
+### Open World
+
+**Explore · Interact · Play**
+
 An interactive open-world experience built for the web.
 
-[🌐 **Visit Open World**](https://open-new-world.vercel.app)  
+[**Visit Open World →**](https://open-new-world.vercel.app)
 
----
-
-## 🌟 Amazing Things On The Way  
-Stay tuned for upcoming projects and updates — it's going to be exciting! 🚀  
-
----
-
-Thanks for visiting!  
