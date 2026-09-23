@@ -16,7 +16,7 @@ Published research papers in Quantum Computing and Quantum Cryptography, with wo
 
 ## 🔐 Security
 
-Alongside development, I also spend time researching and reporting security vulnerabilities.
+Alongside development, also spend time researching and reporting security vulnerabilities.
 
 **7 CVE-assigned vulnerabilities** responsibly disclosed across open-source projects.
 
