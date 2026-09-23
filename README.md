@@ -46,28 +46,22 @@ Worked across features, bug fixes, frontend behavior, visualization, testing, an
 
 ## 🚀 Things I've Built
 
-### Chatterly
+### [Chatterly](https://chatterly-frontend-beta.vercel.app/)
 
 **Anonymous · Encrypted · Real-time**
 
 A chat application with end-to-end encrypted messaging and WebRTC voice calling.
 
-[**Visit Chatterly →**](https://chatterly-frontend-beta.vercel.app/)
-
-### DealsBridge
+### [DealsBridge](https://dealsbridge-client.vercel.app/)
 
 **AI · Deals · Rewards**
 
 An AI-powered platform for discovering and sharing deals, earning Pulse Points, and redeeming rewards.
 
-[**Visit DealsBridge →**](https://dealsbridge-client.vercel.app/)
-
-### Open World
+### [Open World](https://open-new-world.vercel.app/)
 
 **Explore · Interact · Play**
 
 An interactive open-world experience built for the web.
-
-[**Visit Open World →**](https://open-new-world.vercel.app/)
 
 ---
